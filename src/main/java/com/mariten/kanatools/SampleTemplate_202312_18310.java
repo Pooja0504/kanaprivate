@@ -11,6 +11,7 @@ public class SampleTemplate_202312_18310
           System.out.println(" Added code issue ");
           int unuseddiff;
           System.out.println(" Added code issue ");
-if(difftest < 1) {  };
+          int one =1;
+          if(difftest < one) {  };
 } 
  }
